@@ -6,7 +6,12 @@ I don't really know what im going to do with this
 ### INFO
 I use git-sources as my kernel not gentoo-sources
 > idk why i even use this lmao
+### Included so far
+- Kernel config
+- Portage make.conf
 ### Plans:
-- [ ] Import all my configs (like kernel config, make.conf, dotfiles
+- [x] Import all my configs (like kernel config, make.conf, dotfiles)
+> dotfiles still in progress
 - [ ] Dont leak any private info
 - [ ] Organize the files
+- [ ] add a preview of my setup
